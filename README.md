@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alptekinsarilar
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on API's
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Bash Scripting 
+- 💞️ I’m looking to collaborate on Software Development in Test with the help of automation
 - 📫 How to reach me alptekinsarilar@gmail.com
 
 <!---
