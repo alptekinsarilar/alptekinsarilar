@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alptekinsarilar
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning Bash Scripting 
-- 💞️ I’m looking to collaborate on Software Development in Test with the help of automation
+- 👀 I’m interested in Back-end and DevOps
+- 🌱 I’m currently learning Spring Boot 
+- 💞️ I’m looking to collaborate on Software Development Cycle
 - 📫 How to reach me alptekinsarilar@gmail.com
 
 <!---
